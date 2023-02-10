@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37e8b4be7b3ca04486c2d6d4cf0e289, type: 3}
+  m_Name: Ivory pyxis 3
+  m_EditorClassIdentifier: 
+  loreType: 1
+  image: {fileID: 21300000, guid: 067398da65589da42b5384fe70b63655, type: 3}
+  mesh: {fileID: 0}
+  text: "Ivory pyxis with animal imagery, c. 965, probably Madi\u0304nat al-Zahra\u0304\u2019
+    (Metropolitan Museum of Art, The Cloisters, New York)  \r\n\r\n \rAlthough it
+    is missing a lid, therefore not providing any epigraphic information, the Cloisters
+    pyxis share formal similarities with the Madrid and Victoria and Albert ivories.
+    This suggests that it was created around the same time, in the same caliphal
+    workshop supervised by Durri al-Saghir (Anderson, The Islamic Villa in Early
+    Medieval Iberia, 90). "

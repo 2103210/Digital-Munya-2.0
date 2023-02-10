@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37e8b4be7b3ca04486c2d6d4cf0e289, type: 3}
+  m_Name: Ivory pyxis
+  m_EditorClassIdentifier: 
+  loreType: 1
+  image: {fileID: 21300000, guid: 52d5e1cb3ef67cf48b2ef6991bdaa059, type: 3}
+  mesh: {fileID: 0}
+  text: "Commissioned by Caliph al-Hakam II for Subh, his concubine and mother of
+    two of his sons, including Hisham II, al-Hakam\u2019s successor. The pyxis was
+    created in the caliphal ivory workshops of the palatial city of Madinat al-Zahra,
+    which were supervised by Durri al-Saghir.  The inscription on the lid reads:
+    \r\nThe blessing of Alla\u0304h upon the Imam, the servant of God, al-Hakam al-Mustansir
+    billah/ Commander of the Faithful. This is what was ordered to be made for the
+    noble lady [Sayyidah]/ the mother of \u2018Abd al-Rahman, under the direction
+    of [\u2018ala yaday] Durri\u0304 al-Saghir in the year 353 [964]. \r\n"

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fd7b09bf0f76b1d4d825cb167bed5e62
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Khodijah Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b533469e03a56141ae250830e75f4a0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37e8b4be7b3ca04486c2d6d4cf0e289, type: 3}
+  m_Name: Ivory pyxis 2
+  m_EditorClassIdentifier: 
+  loreType: 1
+  image: {fileID: 21300000, guid: 0c22f6192dc3931429693cc10c2cb792, type: 3}
+  mesh: {fileID: 0}
+  text: "Ivory pyxis with pierced lid made for al- Hakam II, c. 964, probably Madi\u0304nat
+    al-Zahra\u0304\u2019 (Victoria and Albert Museum, London)  \r\n\r\n This pyxis
+    is one of the two surviving objects commissioned by Al-Hakam II for Subh, the
+    other being the aforementioned Madrid pyxis. The inscriptions on the two ivories
+    are very similar, and it is likely that they were commissioned as a pair.  The
+    openwork carving of the object suggests that it was intended to hold perfumed
+    substances. (Anderson, The Islamic Villa in Early Medieval Iberia, 88-90). "
