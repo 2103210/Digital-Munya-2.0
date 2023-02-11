@@ -10,6 +10,7 @@
 /[Rr]ecordings/
 # /[Aa]ssets/AssetStoreTools*
 /[Aa]ssets/Plugins/Editor/JetBrains*
+.idea/
 .vs/
 .gradle
 ExportedObj/
